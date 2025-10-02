@@ -1,0 +1,5 @@
+   product  total_qty  revenue
+Headphones         35   1650.0
+    Laptop          7   5700.0
+     Phone         14   7080.0
+    Tablet         10   3030.0
